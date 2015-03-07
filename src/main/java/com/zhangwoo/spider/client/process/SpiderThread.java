@@ -26,6 +26,9 @@ import org.w3c.dom.Document;
 import org.w3c.dom.NodeList;
 import org.xml.sax.SAXException;
 
+import com.meiya.common.FileUtil;
+import com.meiya.common.XmlUtil;
+import com.meiya.common.string.StringUtil;
 import com.zhangwoo.spider.po.Conversation;
 import com.zhangwoo.spider.po.UrlRequest;
 import com.zhangwoo.spider.po.UrlState;
